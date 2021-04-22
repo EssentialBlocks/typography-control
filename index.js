@@ -6,7 +6,7 @@ import {
   SelectControl,
 } from "@wordpress/components";
 import { __ } from "@wordpress/i18n";
-import UnitControl from "../../../util/unit-control";
+import UnitControl from "./unit-control";
 import FontPicker from "./FontPicker";
 import TypographyIcon from "./Icon";
 import WithResButtons from "./WithResButtons";
